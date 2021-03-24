@@ -73,6 +73,7 @@
     "prepublishOnly": "python build/checkversion.py && python build/all.py --force"
   },
   "dependencies": {
+    "electron": "^12.0.2",
     "eme-encryption-scheme-polyfill": "^2.0.2"
   }
 }
