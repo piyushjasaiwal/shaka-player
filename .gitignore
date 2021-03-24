@@ -6,3 +6,5 @@ dist/
 docs/api/
 coverage/
 .DS_Store
+learn_shaka.html
+myapp.js
